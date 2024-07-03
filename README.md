@@ -1,19 +1,35 @@
-# Привет, я Ася, специалист QA!
+## 🙋🏼‍♀️ Привет, я Ася, специалист QA!
 
-Здесь я хочу поделиться своим портфолио в мобильном и веб-тестировании, собранном на учебных проектах. 
----
+📚 Здесь я хочу поделиться своим портфолио в мобильном и веб-тестировании, собранном на учебных проектах. 
 
+<div style="display: flex;">
+
+<div style="flex: 50%; padding-right: 10px;">
+    
 ### 🏃🏼‍♀️ Быстрые факты:
 
-- 🙋🏼‍♀️ стажируюсь как manual qa на проекте большой образовательной платформы
+- 👩🏼‍💻 стажируюсь как manual qa на проекте большой образовательной платформы
 - 🎓 закончила обучение functional software testing course
 -  в свободное время читаю статьи из мира ios разработки
 - у меня есть [резюме](https://drive.google.com/file/d/1dNJNJFzO_IhuMexkW_FrpX4UNjInip2Q/view?usp=sharing)!
-- fun факты: 
-    бакалавриат химической технологии, работала парикмахером, стала QA;
-    во всех трех специальностях занималась анализом, тестированием и документацией (да!)
+- fun факты: </br>
+        бакалавр химической технологии, работала парикмахером, стала QA; </br>
+        во всех трех специальностях занималась анализом, тестированием и документацией (да!)
+  
+  
+</div>
 
-- 📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@asyawrr-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:asia.kondairy@gmail.com)
+<div style="flex: 50%; text-align: center;">
+
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3dnaXJ3MnY5aHUxMXM4NGNyaXJpdHdqbnpoazh2b2dvb2l3enFieSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aNqEFrYVnsS52/giphy.gif" alt="Example GIF" style="max-width: 100%; height: auto;">
+
+</div>
+
+</div>
+
+### 📫 Как связаться со мной: 
+
+[![LinkedIn Badge](https://img.shields.io/badge/-@asyawrr-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:asia.kondairy@gmail.com)
 
 ---
 
@@ -36,7 +52,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/YouTrack_Icon.svg/1024px-YouTrack_Icon.svg.png?20200803082248" title="youtrack" alt="youtrack" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" title="notion" alt="notion" width="40" height="40"/>&nbsp
-  <img src="https://docs.testit.software/images/testit_logo_icon.png" title="test-it" alt="test-it" width="40" height="40"/>&nbsp
   <img src="https://luna1.co/eb0187.png" title="qase" alt="qase" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp
 </div>
@@ -82,6 +97,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png?20180723054350" title="bash" alt="bash" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/ru/0/0c/Xcode_icon.png" title="xcode" alt="xcode" width="40" height="40"/>&nbsp
   
 </div>
 
