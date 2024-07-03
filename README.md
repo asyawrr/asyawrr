@@ -1,23 +1,29 @@
-<<<<<<< HEAD
-# Привет, меня зовут Артем!
+# Привет, я Ася, специалист QA!
 
+Здесь я хочу поделиться своим портфолио в мобильном и веб-тестировании, собранном на учебных проектах. 
 ---
 
-### 👨‍💻 Обо мне:
+### 🏃🏼‍♀️ Быстрые факты:
 
-Я тестировщик и создатель курсов по различным направлениям тестирования. Основной домен - тестирование веб-приложений (front + back). У меня есть канал на YouTube с аудиторией более 158.000 человек. Зв время преподавтаельсккой деятельности обучил более 10.000 студентов на разных платформах.
+- 🙋🏼‍♀️ стажируюсь как manual qa на проекте большой образовательной платформы
+- 🎓 закончила обучение functional software testing course
+-  в свободное время читаю статьи из мира ios разработки
+- у меня есть [резюме](https://drive.google.com/file/d/1dNJNJFzO_IhuMexkW_FrpX4UNjInip2Q/view?usp=sharing)!
+- fun факты: 
+    бакалавриат химической технологии, работала парикмахером, стала QA;
+    во всех трех специальностях занималась анализом, тестированием и документацией (да!)
 
-- 📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@artsiomrusau-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/artsiomrusau/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:qa.rusau@gmail.com)
+- 📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@asyawrr-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:asia.kondairy@gmail.com)
 
 ---
 
 ### 🤝 Социальные сети:
 
   <div id="badges">
-    <a href="https://www.linkedin.com/in/artsiomrusau/" target="_blank">
+    <a href="https://www.linkedin.com/" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
     </a>
-    <a href="https://t.me/artsiom_qa" target="_blank">
+    <a href="https://t.me/asyawrr" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
     </a>
   </div>
@@ -29,7 +35,7 @@
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/YouTrack_Icon.svg/1024px-YouTrack_Icon.svg.png?20200803082248" title="youtrack" alt="youtrack" width="40" height="40"/>&nbsp
-  <img src="https://codahosted.io/packs/21236/unversioned/assets/LOGO/ba1091c59bab89cd2fd0f289622731fe16113d7b00905abe64759c313a4b73b76c1b0426076ed76cb74752234c734131df46992d5b8b48fc13e264240e4f7119f736cfeb64df36ded54b5cbf6198b9cadedf18dd0cac5c7dbcd16e6336c29363cd1292ba" title="testrail" alt="tetstrail" width="40" height="40"/>&nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" title="notion" alt="notion" width="40" height="40"/>&nbsp
   <img src="https://docs.testit.software/images/testit_logo_icon.png" title="test-it" alt="test-it" width="40" height="40"/>&nbsp
   <img src="https://luna1.co/eb0187.png" title="qase" alt="qase" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp
@@ -65,6 +71,7 @@
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" title="graphql" alt="graphql" width="40" height="40"/>&nbsp
 </div>
 
 ---
@@ -80,6 +87,18 @@
 
 ---
 
+### 📝 Тестовые артефакты
+
+По ссылкам можно найти тестовые артефакты, связанные с темами, изученными на учебных проектах.
+- [Анализ требований и выбор типов тестирования на проект](https://github.com/asyawrr/theory)
+- [Применение техник тест-дизайна к модулям проекта](https://github.com/asyawrr/design)
+- [Тестовая документация](https://github.com/asyawrr/docs)
+- [Тестирование web-приложений](https://github.com/asyawrr/web)
+- [Тестирование мобильных приложений](https://github.com/asyawrr/mobile)
+- [Коллекции в Postman для тестирования API](https://github.com/asyawrr/api)
+- [Запросы в базы данных](https://github.com/asyawrr/database)
+
+
 <!-- ### 💻 Пройденные курсы:
 
 | Курсы                                                           | Дата              |
@@ -89,21 +108,3 @@
 --- -->
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=testrusau)
-=======
-## Hi there 👋
-
-<!--
-**asyawrr/asyawrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
->>>>>>> asyawrr/main
