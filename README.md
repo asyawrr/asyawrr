@@ -4,7 +4,7 @@
 
 <div style="display: flex;">
 
-<div style="flex: 50%; padding-right: 10px;">
+<div style="flex: 100%; padding-right: 10px;">
     
 ### 🏃🏼‍♀️ Быстрые факты:
 
@@ -19,9 +19,9 @@
   
 </div>
 
-<div style="flex: 50%; text-align: center;">
+<div style="flex: 100%; text-align: right; padding-left: 10px;">
 
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3dnaXJ3MnY5aHUxMXM4NGNyaXJpdHdqbnpoazh2b2dvb2l3enFieSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aNqEFrYVnsS52/giphy.gif" alt="Example GIF" style="max-width: 100%; height: auto;">
+<img src="https://media1.tenor.com/m/IEVGZZF4TIAAAAAC/%D0%BF%D0%B5%D1%87%D0%B0%D1%82%D0%B0%D1%8E-%D0%BA%D0%BE%D1%82.gif" alt="Example GIF" style="max-width: 100%; height: auto;">
 
 </div>
 
