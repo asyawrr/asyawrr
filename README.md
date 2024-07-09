@@ -29,7 +29,7 @@
 
 ### 📫 Как связаться со мной: 
 
-[![LinkedIn Badge](https://img.shields.io/badge/-@asyawrr-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/anastasiiasherstniuk/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:asia.kondairy@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/-@anastasiiasherstniuk-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/anastasiiasherstniuk/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:qa.sherstniuk@gmail.com)
 
 ---
 
