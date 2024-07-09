@@ -11,7 +11,7 @@
 - 👩🏼‍💻 стажируюсь как manual qa на проекте большой образовательной платформы
 - 🎓 закончила обучение functional software testing course
 -  в свободное время читаю статьи из мира ios разработки
-- у меня есть [резюме](https://drive.google.com/file/d/11nbEUjiAtR2O-AAohq6dtpHtnY8WJVTm/view?usp=drive_link)!
+- у меня есть [резюме](https://drive.google.com/file/d/1RdAP8rB6F9BQltjZ7MCRtXHgnlACdnQ8/view?usp=drive_link)!
 - fun факты: </br>
         бакалавр химической технологии, работала парикмахером, стала QA; </br>
         во всех трех специальностях занималась анализом, тестированием и документацией (да!)
@@ -29,7 +29,7 @@
 
 ### 📫 Как связаться со мной: 
 
-[![LinkedIn Badge](https://img.shields.io/badge/-@asyawrr-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:asia.kondairy@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/-@asyawrr-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/anastasiiasherstniuk/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:asia.kondairy@gmail.com)
 
 ---
 
