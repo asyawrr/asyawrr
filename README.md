@@ -1,22 +1,21 @@
-## 🙋🏼‍♀️ Привет, я Ася, специалист QA!
+## 🙋🏼‍♀️ Hi, I'm Asya, a QA specialist!
 
-📚 Здесь я хочу поделиться своим портфолио в мобильном и веб-тестировании, собранном на учебных проектах. 
+📚 Here I want to share my portfolio in mobile and web testing, compiled on educational projects.
 
 <div style="display: flex;">
 
 <div style="flex: 100%; padding-right: 10px;">
     
-### 🏃🏼‍♀️ Быстрые факты:
+### 🏃🏼‍♀️ Quick Facts:
 
-- 👩🏼‍💻 стажируюсь как manual qa на проекте большой образовательной платформы
-- 🎓 закончила обучение functional software testing course
--  в свободное время читаю статьи из мира ios разработки
-- у меня есть [резюме](https://drive.google.com/file/d/1RdAP8rB6F9BQltjZ7MCRtXHgnlACdnQ8/view?usp=drive_link)!
-- fun факты: </br>
-        бакалавр химической технологии, работала парикмахером, стала QA; </br>
-        во всех трех специальностях занималась анализом, тестированием и документацией (да!)
-  
-  
+- 👩🏼‍💻 Interning as a manual QA on a large educational platform project
+- 🎓 Completed a [functional software testing course](https://github.com/user-attachments/files/16327589/Junior_7440421.pdf)
+-  In my spare time, enjoyed to read articles about iOS development
+- I have a [resume](https://drive.google.com/file/d/1RdAP8rB6F9BQltjZ7MCRtXHgnlACdnQ8/view?usp=drive_link)!
+- Fun facts: </br>
+        Bachelor in Chemical Technology, worked as a hairdresser, became a QA; </br>
+        In all three professions, I was involved in analysis, testing, and documentation (yes!)
+
 </div>
 
 <div style="flex: 100%; text-align: right; padding-left: 10px;">
@@ -27,16 +26,16 @@
 
 </div>
 
-### 📫 Как связаться со мной: 
+### 📫 How to Contact Me: 
 
 [![LinkedIn Badge](https://img.shields.io/badge/-@anastasiiasherstniuk-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/anastasiiasherstniuk/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:qa.sherstniuk@gmail.com)
 
 ---
 
-### 🤝 Социальные сети:
+### 🤝 Social Networks:
 
   <div id="badges">
-    <a href="https://www.linkedin.com/" target="_blank">
+    <a href="https://www.linkedin.com/in/anastasiiasherstniuk/" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
     </a>
     <a href="https://t.me/asyawrr" target="_blank">
@@ -46,7 +45,7 @@
 
 ---
 
-### 📁 Тестовая документация:
+### 📁 Testing Documentation:
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp
@@ -54,11 +53,13 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" title="notion" alt="notion" width="40" height="40"/>&nbsp
   <img src="https://luna1.co/eb0187.png" title="qase" alt="qase" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Obsidian_software_logo.svg" title="obsidian.md" alt="obsidian.md" width="40" height="40"/>&nbsp
+    
 </div>
 
 ---
 
-### 🛠 Тестирование веб-приложений:
+### 🛠 Web Application Testing:
 
 <div>
   <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="devtools" alt="devtools" width="40" height="40"/>&nbsp
@@ -68,7 +69,7 @@
 
 ---
 
-### 📱 Тестирование мобильных приложений:
+### 📱 Mobile Application Testing:
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="android-studio" alt="android-studio" width="40" height="40"/>&nbsp
@@ -78,49 +79,40 @@
   <img src="https://pbs.twimg.com/profile_images/1589614420766126080/slAIVDtr_400x400.jpg" title="proxyman" alt="proxyman" width="40" height="40"/>&nbsp
 </div>
 
-
 ---
 
-### 💾 Работа с данными:
+### 💾 Working with Data:
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" title="graphql" alt="graphql" width="40" height="40"/>&nbsp
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp
 </div>
 
 ---
 
-### ✏️ Работа с кодом:
+### ✏️ Working with Code:
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png?20180723054350" title="bash" alt="bash" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/ru/0/0c/Xcode_icon.png" title="xcode" alt="xcode" width="40" height="40"/>&nbsp
-  
 </div>
 
 ---
 
-### 📝 Тестовые артефакты
+### 📝 Test Artifacts
 
-По ссылкам можно найти тестовые артефакты, связанные с темами, изученными на учебных проектах.
-- [Анализ требований и выбор типов тестирования на проект](https://github.com/asyawrr/theory)
-- [Применение техник тест-дизайна к модулям проекта](https://github.com/asyawrr/design)
-- [Тестовая документация](https://github.com/asyawrr/docs)
-- [Тестирование web-приложений](https://github.com/asyawrr/web)
-- [Тестирование мобильных приложений](https://github.com/asyawrr/mobile)
-- [Коллекции в Postman для тестирования API](https://github.com/asyawrr/api)
-- [Запросы в базы данных](https://github.com/asyawrr/database)
+The links below contain test artifacts related to topics studied in educational projects.
+- [Requirements Analysis and Selection of Testing Types for the Project](https://github.com/asyawrr/theory)
+- [Application of Test Design Techniques to Project Modules](https://github.com/asyawrr/design)
+- [Testing Documentation](https://github.com/asyawrr/docs)
+- [Web Application Testing](https://github.com/asyawrr/web)
+- [Mobile Application Testing](https://github.com/asyawrr/mobile)
+- [Postman Collections for API Testing](https://github.com/asyawrr/api)
+- [Database Queries](https://github.com/asyawrr/database)
 
+<!--- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=asywarr) -->
 
-<!-- ### 💻 Пройденные курсы:
-
-| Курсы                                                           | Дата              |
-| ----------------------------------------------------------------| :---------------: |
-| netology.ru/Старт в программировании                            | 02/2022 - 03/2022 |
-
---- -->
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=testrusau)
