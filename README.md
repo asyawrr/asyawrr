@@ -11,7 +11,7 @@
 - 👩🏼‍💻 Interning as a manual QA on a large educational platform project
 - 🎓 Completed a [functional software testing course](https://github.com/user-attachments/files/16327589/Junior_7440421.pdf)
 -  In my spare time, enjoyed to read articles about iOS development
-- I have a [resume](https://drive.google.com/file/d/1RdAP8rB6F9BQltjZ7MCRtXHgnlACdnQ8/view?usp=drive_link)!
+- I have a [resume](https://drive.google.com/file/d/1Zlcgzimef1eUgooIkGjgBJja-PGUm1_w/view?usp=drive_link)!
 - Fun facts: </br>
         Bachelor in Chemical Technology, worked as a hairdresser, became a QA; </br>
         In all three professions, I was involved in analysis, testing, and documentation (yes!)
