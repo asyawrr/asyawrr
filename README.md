@@ -48,11 +48,23 @@
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/YouTrack_Icon.svg/1024px-YouTrack_Icon.svg.png?20200803082248" title="youtrack" alt="youtrack" width="40" height="40"/>&nbsp
+    <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/YouTrack_Icon.svg/1024px-YouTrack_Icon.svg.png?20200803082248](https://github.com/allure-framework)" title="allure testops" alt="allure testops" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" title="notion" alt="notion" width="40" height="40"/>&nbsp
   <img src="https://luna1.co/eb0187.png" title="qase" alt="qase" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Obsidian_software_logo.svg" title="obsidian.md" alt="obsidian.md" width="40" height="40"/>&nbsp
     
+</div>
+
+---
+
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp
+  <img src="https://playwright.dev/img/playwright-logo.svg" title="playwright" alt="playwright" width="40" height="40"/>&nbsp
+  <img src="https://raw.githubusercontent.com/motdotla/dotenv/master/dotenv.png" title="dotenv" alt="dotenv" width="40" height="40"/>&nbsp
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" title="gitlab ci/cd" alt="gitlab ci/cd" width="40" height="40"/>&nbsp
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" title="jenkins" alt="jenkins" width="40" height="40"/>&nbsp
+  <img src="https://avatars.githubusercontent.com/u/5879127?s=200&v=4" title="allure" alt="allure" width="40" height="40"/>&nbsp
 </div>
 
 ---
@@ -90,13 +102,14 @@
 
 ---
 
-### ✏️ Working with Code:
+### ✏️ Working with Code & Development Tools:
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png?20180723054350" title="bash" alt="bash" width="40" height="40"/>&nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png" title="bash" alt="bash" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp
-  <img src="https://upload.wikimedia.org/wikipedia/ru/0/0c/Xcode_icon.png" title="xcode" alt="xcode" width="40" height="40"/>&nbsp
+  <img src="https://avatars.githubusercontent.com/u/106086047?s=200&v=4" title="cursor" alt="cursor" width="40" height="40"/>&nbsp
+  <img src="https://avatars.githubusercontent.com/u/5559889?s=200&v=4" title="warp terminal" alt="warp terminal" width="40" height="40"/>&nbsp
 </div>
 
 ---
@@ -111,6 +124,7 @@ The links below contain test artifacts related to topics studied in educational 
 - [Mobile Application Testing](https://github.com/asyawrr/mobile)
 - [Postman Collections for API Testing](https://github.com/asyawrr/api)
 - [Database Queries](https://github.com/asyawrr/database)
+- [Autotests](https://github.com/asyawrr/qa-guru-hrm-automation)
 
 <!--- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=asywarr) -->
 
